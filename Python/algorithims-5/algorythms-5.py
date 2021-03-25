@@ -1,0 +1,1 @@
+# When given a list of elements find the two lowest elements. They can be equal to each other or different.  
